@@ -1,11 +1,4 @@
-### Olá eu sou o  Sérgio
-- 🔭 Eu estou trabalhando em  Análise de dados
 
-
-- 🌱 Estou estudando  Power bi e Python
-
-- 😉 bora aprender mais e mais   
-
--->![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio&show_icons=true&theme=radical)
-
+***SERGIO REZENDE***
+![banner](https://user-images.githubusercontent.com/82913400/131236545-751a120b-fc26-454e-b73f-d868897bb82b.png)
 
